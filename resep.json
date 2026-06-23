@@ -1,0 +1,674 @@
+[
+  {
+    "id": "1",
+    "nama": "Nasi Goreng Kampung",
+    "gambar": "https://loremflickr.com/600/400/nasi,goreng?lock=11",
+    "kategori": "Nasi & Mie",
+    "deskripsi": "Nasi goreng sederhana ala rumahan dengan bumbu bawang dan kecap.",
+    "bahan": [
+      "2 piring nasi putih",
+      "3 siung bawang merah, iris",
+      "2 siung bawang putih, cincang",
+      "3 buah cabai rawit (sesuai selera)",
+      "2 sdm kecap manis",
+      "1 butir telur",
+      "Garam dan penyedap secukupnya"
+    ],
+    "langkah": [
+      "Panaskan minyak, tumis bawang merah dan bawang putih hingga harum.",
+      "Masukkan cabai dan telur, orak-arik hingga matang.",
+      "Masukkan nasi, aduk rata.",
+      "Tambahkan kecap manis, garam, dan penyedap.",
+      "Aduk hingga merata dan sajikan hangat."
+    ]
+  },
+  {
+    "id": "2",
+    "nama": "Mie Goreng Jawa",
+    "gambar": "https://loremflickr.com/600/400/mie,goreng?lock=12",
+    "kategori": "Nasi & Mie",
+    "deskripsi": "Mie goreng bumbu sederhana dengan sayuran dan telur.",
+    "bahan": [
+      "2 bungkus mie telur, rebus",
+      "2 siung bawang putih, cincang",
+      "3 siung bawang merah, iris",
+      "1 butir telur",
+      "Sawi dan kol secukupnya",
+      "2 sdm kecap manis",
+      "Garam dan merica secukupnya"
+    ],
+    "langkah": [
+      "Tumis bawang putih dan bawang merah hingga harum.",
+      "Masukkan telur, orak-arik.",
+      "Tambahkan sayuran, aduk hingga layu.",
+      "Masukkan mie, kecap, garam, dan merica.",
+      "Aduk rata hingga matang, sajikan."
+    ]
+  },
+  {
+    "id": "3",
+    "nama": "Ayam Goreng Lengkuas",
+    "gambar": "https://loremflickr.com/600/400/ayam,goreng?lock=13",
+    "kategori": "Ayam",
+    "deskripsi": "Ayam goreng gurih dengan taburan lengkuas kering.",
+    "bahan": [
+      "1 ekor ayam, potong 8 bagian",
+      "200 gr lengkuas, parut",
+      "5 siung bawang putih",
+      "3 cm kunyit",
+      "2 batang serai, memarkan",
+      "3 lembar daun salam",
+      "Garam secukupnya"
+    ],
+    "langkah": [
+      "Haluskan bawang putih, kunyit, dan garam.",
+      "Rebus ayam bersama bumbu halus, lengkuas, serai, dan daun salam.",
+      "Masak hingga air menyusut dan bumbu meresap.",
+      "Goreng ayam bersama lengkuas hingga kecokelatan.",
+      "Tiriskan dan sajikan dengan taburan lengkuas goreng."
+    ]
+  },
+  {
+    "id": "4",
+    "nama": "Ayam Geprek Sambal Bawang",
+    "gambar": "https://loremflickr.com/600/400/ayam,geprek?lock=14",
+    "kategori": "Ayam",
+    "deskripsi": "Ayam crispy yang digeprek dengan sambal bawang pedas.",
+    "bahan": [
+      "4 potong ayam fillet",
+      "200 gr tepung bumbu serbaguna",
+      "10 buah cabai rawit",
+      "5 siung bawang putih",
+      "Garam dan penyedap secukupnya",
+      "Minyak panas secukupnya"
+    ],
+    "langkah": [
+      "Balut ayam dengan tepung bumbu, lalu goreng hingga crispy.",
+      "Goreng sebentar cabai dan bawang putih.",
+      "Ulek cabai, bawang, garam, dan penyedap.",
+      "Siram dengan sedikit minyak panas, aduk.",
+      "Geprek ayam di atas sambal, sajikan."
+    ]
+  },
+  {
+    "id": "5",
+    "nama": "Rendang Daging Sapi",
+    "gambar": "https://loremflickr.com/600/400/rendang?lock=15",
+    "kategori": "Daging",
+    "deskripsi": "Rendang sapi khas Padang dengan bumbu rempah dan santan.",
+    "bahan": [
+      "500 gr daging sapi, potong",
+      "1 liter santan kental",
+      "10 buah cabai merah",
+      "6 siung bawang merah",
+      "4 siung bawang putih",
+      "2 batang serai, memarkan",
+      "Daun jeruk dan daun kunyit secukupnya"
+    ],
+    "langkah": [
+      "Haluskan cabai, bawang merah, dan bawang putih.",
+      "Tumis bumbu halus bersama serai dan daun hingga harum.",
+      "Masukkan daging, aduk hingga berubah warna.",
+      "Tuang santan, masak dengan api kecil.",
+      "Aduk sesekali hingga santan mengering dan berwarna cokelat pekat."
+    ]
+  },
+  {
+    "id": "6",
+    "nama": "Soto Ayam Lamongan",
+    "gambar": "https://loremflickr.com/600/400/soto,ayam?lock=16",
+    "kategori": "Ayam",
+    "deskripsi": "Soto ayam berkuah kuning segar dengan koya gurih.",
+    "bahan": [
+      "1/2 ekor ayam",
+      "2 liter air",
+      "4 siung bawang putih",
+      "5 siung bawang merah",
+      "3 cm kunyit",
+      "2 batang serai",
+      "Soun, telur rebus, dan seledri secukupnya"
+    ],
+    "langkah": [
+      "Rebus ayam hingga empuk, lalu suwir.",
+      "Haluskan bawang putih, bawang merah, dan kunyit.",
+      "Tumis bumbu halus dan serai hingga harum.",
+      "Masukkan tumisan ke kaldu, masak hingga mendidih.",
+      "Sajikan dengan soun, ayam suwir, telur, dan seledri."
+    ]
+  },
+  {
+    "id": "7",
+    "nama": "Gado-Gado",
+    "gambar": "https://loremflickr.com/600/400/gado,gado?lock=17",
+    "kategori": "Sayur",
+    "deskripsi": "Aneka sayur rebus dengan siraman bumbu kacang.",
+    "bahan": [
+      "Kangkung, tauge, dan kacang panjang rebus",
+      "Tahu dan tempe goreng",
+      "2 butir telur rebus",
+      "200 gr kacang tanah goreng",
+      "3 buah cabai rawit",
+      "2 sdm gula merah",
+      "Garam dan air asam secukupnya"
+    ],
+    "langkah": [
+      "Haluskan kacang tanah, cabai, gula merah, dan garam.",
+      "Tambahkan air sedikit demi sedikit hingga jadi saus kacang.",
+      "Tata sayur rebus, tahu, tempe, dan telur di piring.",
+      "Siram dengan bumbu kacang.",
+      "Sajikan dengan kerupuk."
+    ]
+  },
+  {
+    "id": "8",
+    "nama": "Sayur Asem",
+    "gambar": "https://loremflickr.com/600/400/sayur,asem?lock=18",
+    "kategori": "Sayur",
+    "deskripsi": "Sayur berkuah segar dengan rasa asam yang menyegarkan.",
+    "bahan": [
+      "Labu siam, kacang panjang, dan jagung manis",
+      "Melinjo dan daun melinjo secukupnya",
+      "3 siung bawang merah",
+      "2 siung bawang putih",
+      "2 buah asam jawa",
+      "2 sdm gula merah",
+      "Garam secukupnya"
+    ],
+    "langkah": [
+      "Rebus air hingga mendidih.",
+      "Masukkan bumbu iris, asam jawa, dan gula merah.",
+      "Masukkan jagung dan melinjo, masak hingga setengah empuk.",
+      "Tambahkan sayuran lain, masak hingga matang.",
+      "Koreksi rasa dan sajikan."
+    ]
+  },
+  {
+    "id": "9",
+    "nama": "Ikan Bakar Kecap",
+    "gambar": "https://loremflickr.com/600/400/ikan,bakar?lock=19",
+    "kategori": "Seafood",
+    "deskripsi": "Ikan bakar dengan olesan bumbu kecap manis dan pedas.",
+    "bahan": [
+      "1 ekor ikan nila/kembung",
+      "4 sdm kecap manis",
+      "3 siung bawang putih",
+      "5 buah cabai merah",
+      "1 buah jeruk nipis",
+      "Garam secukupnya"
+    ],
+    "langkah": [
+      "Lumuri ikan dengan jeruk nipis dan garam, diamkan.",
+      "Haluskan bawang putih dan cabai, campur dengan kecap.",
+      "Olesi ikan dengan bumbu kecap.",
+      "Bakar ikan sambil sesekali diolesi bumbu.",
+      "Bakar hingga matang dan harum, sajikan."
+    ]
+  },
+  {
+    "id": "10",
+    "nama": "Telur Balado",
+    "gambar": "https://loremflickr.com/600/400/telur,balado?lock=20",
+    "kategori": "Lauk",
+    "deskripsi": "Telur rebus goreng dengan sambal balado merah.",
+    "bahan": [
+      "6 butir telur rebus",
+      "10 buah cabai merah",
+      "5 siung bawang merah",
+      "3 siung bawang putih",
+      "1 buah tomat",
+      "Garam dan gula secukupnya"
+    ],
+    "langkah": [
+      "Goreng telur rebus hingga kulitnya kecokelatan.",
+      "Haluskan cabai, bawang merah, bawang putih, dan tomat.",
+      "Tumis bumbu halus hingga matang dan harum.",
+      "Masukkan telur, aduk hingga terbalut sambal.",
+      "Koreksi rasa dan sajikan."
+    ]
+  },
+  {
+    "id": "11",
+    "nama": "Tempe Orek",
+    "gambar": "https://loremflickr.com/600/400/tempe,orek?lock=21",
+    "kategori": "Lauk",
+    "deskripsi": "Tempe goreng dengan bumbu kecap manis sedikit pedas.",
+    "bahan": [
+      "1 papan tempe, potong korek",
+      "3 siung bawang merah, iris",
+      "2 siung bawang putih, iris",
+      "3 buah cabai merah, iris",
+      "3 sdm kecap manis",
+      "Garam dan gula secukupnya"
+    ],
+    "langkah": [
+      "Goreng tempe setengah kering, sisihkan.",
+      "Tumis bawang merah, bawang putih, dan cabai.",
+      "Masukkan kecap manis, garam, dan gula.",
+      "Masukkan tempe, aduk hingga bumbu meresap.",
+      "Masak hingga sedikit kering dan sajikan."
+    ]
+  },
+  {
+    "id": "12",
+    "nama": "Pisang Goreng Crispy",
+    "gambar": "https://loremflickr.com/600/400/pisang,goreng?lock=22",
+    "kategori": "Cemilan",
+    "deskripsi": "Pisang goreng renyah dengan balutan tepung crispy.",
+    "bahan": [
+      "6 buah pisang kepok",
+      "150 gr tepung terigu",
+      "2 sdm tepung beras",
+      "1 sdm gula pasir",
+      "Sejumput garam",
+      "Air secukupnya"
+    ],
+    "langkah": [
+      "Campur tepung terigu, tepung beras, gula, dan garam.",
+      "Tuang air sedikit demi sedikit hingga jadi adonan.",
+      "Belah pisang, celupkan ke adonan.",
+      "Goreng dalam minyak panas hingga keemasan.",
+      "Tiriskan dan sajikan hangat."
+    ]
+  },
+  {
+    "id": "13",
+    "nama": "Sate Ayam Madura",
+    "gambar": "https://loremflickr.com/600/400/sate,ayam?lock=23",
+    "kategori": "Ayam",
+    "deskripsi": "Sate ayam dengan bumbu kacang khas Madura.",
+    "bahan": [
+      "500 gr daging ayam fillet, potong dadu",
+      "Tusuk sate secukupnya",
+      "200 gr kacang tanah goreng",
+      "4 siung bawang putih",
+      "5 sdm kecap manis",
+      "Garam dan gula merah secukupnya"
+    ],
+    "langkah": [
+      "Tusuk potongan ayam ke tusuk sate.",
+      "Haluskan kacang tanah, bawang putih, garam, dan gula merah.",
+      "Beri air hingga jadi saus kacang.",
+      "Bakar sate sambil diolesi kecap.",
+      "Sajikan sate dengan siraman bumbu kacang dan kecap."
+    ]
+  },
+  {
+    "id": "14",
+    "nama": "Bakso Sapi",
+    "gambar": "https://loremflickr.com/600/400/bakso?lock=24",
+    "kategori": "Daging",
+    "deskripsi": "Bola daging sapi kenyal dengan kuah kaldu gurih.",
+    "bahan": [
+      "500 gr daging sapi giling",
+      "100 gr tepung tapioka",
+      "3 siung bawang putih",
+      "1 butir telur",
+      "Es batu secukupnya",
+      "Garam dan merica secukupnya"
+    ],
+    "langkah": [
+      "Haluskan daging dengan bawang putih, telur, garam, dan merica.",
+      "Campur dengan tepung tapioka dan es batu hingga kalis.",
+      "Bentuk bulatan bakso.",
+      "Rebus dalam air mendidih hingga mengapung.",
+      "Sajikan dengan kuah kaldu panas."
+    ]
+  },
+  {
+    "id": "15",
+    "nama": "Nasi Uduk",
+    "gambar": "https://loremflickr.com/600/400/nasi,uduk?lock=25",
+    "kategori": "Nasi & Mie",
+    "deskripsi": "Nasi gurih yang dimasak dengan santan dan rempah.",
+    "bahan": [
+      "2 cup beras",
+      "500 ml santan",
+      "2 lembar daun salam",
+      "1 batang serai, memarkan",
+      "2 lembar daun jeruk",
+      "Garam secukupnya"
+    ],
+    "langkah": [
+      "Cuci beras hingga bersih.",
+      "Masak santan bersama daun salam, serai, daun jeruk, dan garam hingga hangat.",
+      "Tuang santan ke beras, aron hingga meresap.",
+      "Kukus nasi hingga matang.",
+      "Sajikan dengan telur dan bawang goreng."
+    ]
+  },
+  {
+    "id": "16",
+    "nama": "Gudeg Jogja",
+    "gambar": "https://loremflickr.com/600/400/gudeg?lock=26",
+    "kategori": "Sayur",
+    "deskripsi": "Olahan nangka muda manis khas Yogyakarta.",
+    "bahan": [
+      "1 kg nangka muda, potong",
+      "500 ml santan",
+      "5 siung bawang merah",
+      "3 siung bawang putih",
+      "5 butir kemiri",
+      "2 sdm gula merah",
+      "Daun salam dan lengkuas secukupnya"
+    ],
+    "langkah": [
+      "Haluskan bawang merah, bawang putih, dan kemiri.",
+      "Tata nangka, bumbu, gula merah, daun salam, dan lengkuas di panci.",
+      "Tuang santan hingga terendam.",
+      "Masak dengan api kecil hingga empuk dan cokelat.",
+      "Sajikan dengan nasi dan ayam."
+    ]
+  },
+  {
+    "id": "17",
+    "nama": "Rawon Daging",
+    "gambar": "https://loremflickr.com/600/400/rawon?lock=27",
+    "kategori": "Daging",
+    "deskripsi": "Sup daging berkuah hitam khas Jawa Timur dengan kluwek.",
+    "bahan": [
+      "500 gr daging sapi, potong",
+      "4 buah kluwek, ambil isinya",
+      "5 siung bawang merah",
+      "3 siung bawang putih",
+      "3 butir kemiri",
+      "2 batang serai",
+      "Garam secukupnya"
+    ],
+    "langkah": [
+      "Rebus daging hingga empuk, sisihkan kaldunya.",
+      "Haluskan kluwek, bawang, kemiri, dan garam.",
+      "Tumis bumbu halus dan serai hingga harum.",
+      "Masukkan tumisan ke kaldu dan daging.",
+      "Masak hingga kuah hitam meresap, sajikan dengan tauge."
+    ]
+  },
+  {
+    "id": "18",
+    "nama": "Soto Betawi",
+    "gambar": "https://loremflickr.com/600/400/soto,betawi?lock=28",
+    "kategori": "Daging",
+    "deskripsi": "Soto daging berkuah santan gurih khas Betawi.",
+    "bahan": [
+      "500 gr daging sapi",
+      "500 ml santan",
+      "5 siung bawang merah",
+      "3 siung bawang putih",
+      "3 cm jahe",
+      "2 batang serai",
+      "Garam dan merica secukupnya"
+    ],
+    "langkah": [
+      "Rebus daging hingga empuk, potong dadu.",
+      "Haluskan bawang merah, bawang putih, dan jahe.",
+      "Tumis bumbu dan serai hingga harum.",
+      "Masukkan ke kaldu, tuang santan.",
+      "Masak hingga mendidih, sajikan dengan emping dan tomat."
+    ]
+  },
+  {
+    "id": "19",
+    "nama": "Mie Ayam",
+    "gambar": "https://loremflickr.com/600/400/mie,ayam?lock=29",
+    "kategori": "Nasi & Mie",
+    "deskripsi": "Mie dengan topping ayam kecap dan sawi.",
+    "bahan": [
+      "2 porsi mie",
+      "200 gr daging ayam, potong dadu",
+      "3 sdm kecap manis",
+      "2 siung bawang putih",
+      "1 sdm saus tiram",
+      "Sawi dan bawang goreng secukupnya"
+    ],
+    "langkah": [
+      "Tumis bawang putih, masukkan ayam.",
+      "Tambahkan kecap manis dan saus tiram, masak hingga meresap.",
+      "Rebus mie dan sawi hingga matang.",
+      "Aduk mie dengan minyak ayam dan kecap.",
+      "Sajikan mie dengan topping ayam dan bawang goreng."
+    ]
+  },
+  {
+    "id": "20",
+    "nama": "Bubur Ayam",
+    "gambar": "https://loremflickr.com/600/400/bubur,ayam?lock=30",
+    "kategori": "Nasi & Mie",
+    "deskripsi": "Bubur nasi lembut dengan ayam suwir dan pelengkap.",
+    "bahan": [
+      "1 cup beras",
+      "1,5 liter air atau kaldu",
+      "200 gr ayam rebus, suwir",
+      "Daun bawang dan seledri",
+      "Bawang goreng secukupnya",
+      "Garam secukupnya"
+    ],
+    "langkah": [
+      "Masak beras dengan banyak air sambil diaduk.",
+      "Masak hingga menjadi bubur lembut.",
+      "Tambahkan garam, koreksi rasa.",
+      "Sajikan bubur dengan ayam suwir.",
+      "Taburi daun bawang, seledri, dan bawang goreng."
+    ]
+  },
+  {
+    "id": "21",
+    "nama": "Martabak Manis",
+    "gambar": "https://loremflickr.com/600/400/martabak?lock=31",
+    "kategori": "Cemilan",
+    "deskripsi": "Kue terang bulan tebal dengan topping cokelat dan susu.",
+    "bahan": [
+      "250 gr tepung terigu",
+      "2 butir telur",
+      "500 ml air",
+      "1 sdt ragi instan",
+      "1/2 sdt baking soda",
+      "Mentega, meses, dan susu kental manis"
+    ],
+    "langkah": [
+      "Campur tepung, telur, dan air hingga rata.",
+      "Masukkan ragi, diamkan 1 jam.",
+      "Tambahkan baking soda, aduk.",
+      "Tuang ke cetakan panas hingga berpori, tutup.",
+      "Olesi mentega, taburi meses dan susu, lipat dan sajikan."
+    ]
+  },
+  {
+    "id": "22",
+    "nama": "Opor Ayam",
+    "gambar": "https://loremflickr.com/600/400/opor,ayam?lock=32",
+    "kategori": "Ayam",
+    "deskripsi": "Ayam berkuah santan kuning yang gurih dan harum.",
+    "bahan": [
+      "1 ekor ayam, potong",
+      "500 ml santan",
+      "5 siung bawang merah",
+      "3 siung bawang putih",
+      "3 butir kemiri",
+      "2 lembar daun salam",
+      "Serai dan lengkuas secukupnya"
+    ],
+    "langkah": [
+      "Haluskan bawang merah, bawang putih, dan kemiri.",
+      "Tumis bumbu, daun salam, serai, dan lengkuas hingga harum.",
+      "Masukkan ayam, aduk hingga berubah warna.",
+      "Tuang santan, masak dengan api kecil.",
+      "Masak hingga matang dan kuah mengental, sajikan."
+    ]
+  },
+  {
+    "id": "23",
+    "nama": "Semur Daging",
+    "gambar": "https://loremflickr.com/600/400/semur,daging?lock=33",
+    "kategori": "Daging",
+    "deskripsi": "Daging sapi dimasak dengan kuah kecap manis berempah.",
+    "bahan": [
+      "500 gr daging sapi, potong",
+      "5 sdm kecap manis",
+      "5 siung bawang merah",
+      "3 siung bawang putih",
+      "2 butir cengkeh",
+      "1 buah pala, parut",
+      "Garam dan merica secukupnya"
+    ],
+    "langkah": [
+      "Haluskan bawang merah dan bawang putih.",
+      "Tumis bumbu, cengkeh, dan pala hingga harum.",
+      "Masukkan daging, aduk rata.",
+      "Tambahkan kecap manis dan air.",
+      "Masak hingga daging empuk dan kuah mengental."
+    ]
+  },
+  {
+    "id": "24",
+    "nama": "Capcay Kuah",
+    "gambar": "https://loremflickr.com/600/400/capcay?lock=34",
+    "kategori": "Sayur",
+    "deskripsi": "Tumis aneka sayuran berkuah dengan udang atau ayam.",
+    "bahan": [
+      "Wortel, sawi, kembang kol, dan brokoli",
+      "100 gr udang atau ayam",
+      "3 siung bawang putih",
+      "1 sdm saus tiram",
+      "1 sdt tepung maizena",
+      "Garam dan merica secukupnya"
+    ],
+    "langkah": [
+      "Tumis bawang putih hingga harum.",
+      "Masukkan udang atau ayam, masak hingga matang.",
+      "Tambahkan air, saus tiram, garam, dan merica.",
+      "Masukkan sayuran, masak hingga layu.",
+      "Kentalkan dengan larutan maizena, sajikan."
+    ]
+  },
+  {
+    "id": "25",
+    "nama": "Nasi Kuning",
+    "gambar": "https://loremflickr.com/600/400/nasi,kuning?lock=35",
+    "kategori": "Nasi & Mie",
+    "deskripsi": "Nasi santan berwarna kuning dari kunyit, gurih dan wangi.",
+    "bahan": [
+      "2 cup beras",
+      "500 ml santan",
+      "3 cm kunyit, parut",
+      "2 lembar daun salam",
+      "1 batang serai",
+      "Garam secukupnya"
+    ],
+    "langkah": [
+      "Campur santan dengan kunyit, daun salam, serai, dan garam.",
+      "Masak santan hingga hangat.",
+      "Aron beras dengan santan kuning.",
+      "Kukus hingga matang.",
+      "Sajikan dengan lauk pelengkap."
+    ]
+  },
+  {
+    "id": "26",
+    "nama": "Ketoprak",
+    "gambar": "https://loremflickr.com/600/400/ketoprak?lock=36",
+    "kategori": "Sayur",
+    "deskripsi": "Lontong, bihun, dan tahu dengan saus kacang dan kecap.",
+    "bahan": [
+      "Lontong, bihun, dan tauge rebus",
+      "Tahu goreng",
+      "150 gr kacang tanah goreng",
+      "3 siung bawang putih",
+      "2 sdm kecap manis",
+      "Kerupuk dan bawang goreng"
+    ],
+    "langkah": [
+      "Haluskan kacang tanah, bawang putih, dan garam.",
+      "Beri air dan kecap hingga jadi saus.",
+      "Potong lontong dan tahu, tata dengan bihun dan tauge.",
+      "Siram dengan bumbu kacang.",
+      "Taburi kerupuk dan bawang goreng."
+    ]
+  },
+  {
+    "id": "27",
+    "nama": "Pecel Sayur",
+    "gambar": "https://loremflickr.com/600/400/pecel?lock=37",
+    "kategori": "Sayur",
+    "deskripsi": "Sayuran rebus dengan sambal kacang khas Jawa.",
+    "bahan": [
+      "Bayam, kangkung, dan tauge rebus",
+      "Kacang panjang rebus",
+      "200 gr kacang tanah",
+      "3 buah cabai",
+      "2 sdm gula merah",
+      "Daun jeruk dan garam"
+    ],
+    "langkah": [
+      "Goreng kacang tanah hingga matang.",
+      "Haluskan kacang dengan cabai, gula merah, daun jeruk, dan garam.",
+      "Beri air hangat hingga jadi saus pecel.",
+      "Tata sayuran rebus di piring.",
+      "Siram dengan bumbu pecel, sajikan."
+    ]
+  },
+  {
+    "id": "28",
+    "nama": "Gulai Kambing",
+    "gambar": "https://loremflickr.com/600/400/gulai,kambing?lock=38",
+    "kategori": "Daging",
+    "deskripsi": "Daging kambing berkuah santan rempah yang kaya rasa.",
+    "bahan": [
+      "500 gr daging kambing, potong",
+      "500 ml santan",
+      "5 siung bawang merah",
+      "3 siung bawang putih",
+      "3 cm jahe",
+      "3 cm kunyit",
+      "Ketumbar dan jintan secukupnya"
+    ],
+    "langkah": [
+      "Haluskan semua bumbu.",
+      "Tumis bumbu hingga harum.",
+      "Masukkan daging kambing, aduk hingga berubah warna.",
+      "Tuang santan, masak dengan api kecil.",
+      "Masak hingga daging empuk dan kuah mengental."
+    ]
+  },
+  {
+    "id": "29",
+    "nama": "Klepon",
+    "gambar": "https://loremflickr.com/600/400/klepon?lock=39",
+    "kategori": "Cemilan",
+    "deskripsi": "Bola ketan isi gula merah berbalut kelapa parut.",
+    "bahan": [
+      "250 gr tepung ketan",
+      "100 gr gula merah, sisir",
+      "Air daun pandan/suji secukupnya",
+      "Kelapa parut secukupnya",
+      "Sejumput garam"
+    ],
+    "langkah": [
+      "Campur tepung ketan dengan air pandan hingga bisa dibentuk.",
+      "Ambil sedikit adonan, isi dengan gula merah, bulatkan.",
+      "Rebus dalam air mendidih hingga mengapung.",
+      "Gulingkan di kelapa parut yang dikukus dengan garam.",
+      "Sajikan."
+    ]
+  },
+  {
+    "id": "30",
+    "nama": "Es Campur",
+    "gambar": "https://loremflickr.com/600/400/es,campur?lock=40",
+    "kategori": "Cemilan",
+    "deskripsi": "Minuman segar berisi aneka buah, cincau, dan sirup.",
+    "bahan": [
+      "Es serut secukupnya",
+      "Kelapa muda",
+      "Cincau dan kolang-kaling",
+      "Potongan buah (alpukat, nangka)",
+      "Sirup merah",
+      "Susu kental manis"
+    ],
+    "langkah": [
+      "Siapkan aneka isian di mangkuk.",
+      "Tambahkan es serut di atasnya.",
+      "Siram dengan sirup merah.",
+      "Beri susu kental manis.",
+      "Sajikan dingin."
+    ]
+  }
+]
