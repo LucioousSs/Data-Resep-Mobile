@@ -2,7 +2,7 @@
   {
     "id": "1",
     "nama": "Nasi Goreng Kampung",
-    "gambar": "https://loremflickr.com/600/400/nasi,goreng?lock=11",
+    "gambar": "https://i.pinimg.com/736x/3a/55/dd/3a55ddda23e26bd3c08e67f1237dde7c.jpg",
     "kategori": "Nasi & Mie",
     "deskripsi": "Nasi goreng sederhana ala rumahan dengan bumbu bawang dan kecap.",
     "bahan": [
@@ -25,7 +25,7 @@
   {
     "id": "2",
     "nama": "Mie Goreng Jawa",
-    "gambar": "https://loremflickr.com/600/400/mie,goreng?lock=12",
+    "gambar": "https://i.pinimg.com/736x/3a/8c/1b/3a8c1b78c6e03465acbe5af8d862c1ec.jpg",
     "kategori": "Nasi & Mie",
     "deskripsi": "Mie goreng bumbu sederhana dengan sayuran dan telur.",
     "bahan": [
@@ -48,7 +48,7 @@
   {
     "id": "3",
     "nama": "Ayam Goreng Lengkuas",
-    "gambar": "https://loremflickr.com/600/400/ayam,goreng?lock=13",
+    "gambar": "https://i.pinimg.com/736x/c2/98/fc/c298fca2088d3d22039e8a0288ae4eb0.jpg",
     "kategori": "Ayam",
     "deskripsi": "Ayam goreng gurih dengan taburan lengkuas kering.",
     "bahan": [
@@ -71,7 +71,7 @@
   {
     "id": "4",
     "nama": "Ayam Geprek Sambal Bawang",
-    "gambar": "https://loremflickr.com/600/400/ayam,geprek?lock=14",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/2/24/Ayam_geprek.png",
     "kategori": "Ayam",
     "deskripsi": "Ayam crispy yang digeprek dengan sambal bawang pedas.",
     "bahan": [
@@ -93,7 +93,7 @@
   {
     "id": "5",
     "nama": "Rendang Daging Sapi",
-    "gambar": "https://loremflickr.com/600/400/rendang?lock=15",
+    "gambar": "https://i.pinimg.com/736x/91/45/03/914503d93252423ba5f385b87d507124.jpg",
     "kategori": "Daging",
     "deskripsi": "Rendang sapi khas Padang dengan bumbu rempah dan santan.",
     "bahan": [
@@ -116,7 +116,7 @@
   {
     "id": "6",
     "nama": "Soto Ayam Lamongan",
-    "gambar": "https://loremflickr.com/600/400/soto,ayam?lock=16",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Soto_Lamongan.jpg/960px-Soto_Lamongan.jpg",
     "kategori": "Ayam",
     "deskripsi": "Soto ayam berkuah kuning segar dengan koya gurih.",
     "bahan": [
@@ -139,7 +139,7 @@
   {
     "id": "7",
     "nama": "Gado-Gado",
-    "gambar": "https://loremflickr.com/600/400/gado,gado?lock=17",
+    "gambar": "https://i.pinimg.com/736x/f1/b8/98/f1b89847e14984c74d4afd41fbe4fd8e.jpg",
     "kategori": "Sayur",
     "deskripsi": "Aneka sayur rebus dengan siraman bumbu kacang.",
     "bahan": [
@@ -162,7 +162,7 @@
   {
     "id": "8",
     "nama": "Sayur Asem",
-    "gambar": "https://loremflickr.com/600/400/sayur,asem?lock=18",
+    "gambar": "https://i.pinimg.com/736x/c0/b6/34/c0b634700fbbddcdc963299b31374d84.jpg",
     "kategori": "Sayur",
     "deskripsi": "Sayur berkuah segar dengan rasa asam yang menyegarkan.",
     "bahan": [
@@ -185,7 +185,7 @@
   {
     "id": "9",
     "nama": "Ikan Bakar Kecap",
-    "gambar": "https://loremflickr.com/600/400/ikan,bakar?lock=19",
+    "gambar": "https://i.pinimg.com/736x/7f/89/03/7f89035f5d9217ffd684bfac949f37c1.jpg",
     "kategori": "Seafood",
     "deskripsi": "Ikan bakar dengan olesan bumbu kecap manis dan pedas.",
     "bahan": [
@@ -207,7 +207,7 @@
   {
     "id": "10",
     "nama": "Telur Balado",
-    "gambar": "https://loremflickr.com/600/400/telur,balado?lock=20",
+    "gambar": "https://i.pinimg.com/736x/cd/cf/a8/cdcfa8d270d2a5bb10695a672e00dab0.jpg",
     "kategori": "Lauk",
     "deskripsi": "Telur rebus goreng dengan sambal balado merah.",
     "bahan": [
@@ -229,7 +229,7 @@
   {
     "id": "11",
     "nama": "Tempe Orek",
-    "gambar": "https://loremflickr.com/600/400/tempe,orek?lock=21",
+    "gambar": "https://i.pinimg.com/736x/4a/98/6e/4a986eff561f683714224858f8f23c3c.jpg",
     "kategori": "Lauk",
     "deskripsi": "Tempe goreng dengan bumbu kecap manis sedikit pedas.",
     "bahan": [
@@ -251,7 +251,7 @@
   {
     "id": "12",
     "nama": "Pisang Goreng Crispy",
-    "gambar": "https://loremflickr.com/600/400/pisang,goreng?lock=22",
+    "gambar": "https://i.pinimg.com/736x/a4/cf/25/a4cf25ba39e4b3d9e54c5f979df4502f.jpg",
     "kategori": "Cemilan",
     "deskripsi": "Pisang goreng renyah dengan balutan tepung crispy.",
     "bahan": [
@@ -273,7 +273,7 @@
   {
     "id": "13",
     "nama": "Sate Ayam Madura",
-    "gambar": "https://loremflickr.com/600/400/sate,ayam?lock=23",
+    "gambar": "https://i.pinimg.com/736x/80/73/bc/8073bc0bc0acc2467d9423b361505b3b.jpg",
     "kategori": "Ayam",
     "deskripsi": "Sate ayam dengan bumbu kacang khas Madura.",
     "bahan": [
@@ -295,7 +295,7 @@
   {
     "id": "14",
     "nama": "Bakso Sapi",
-    "gambar": "https://loremflickr.com/600/400/bakso?lock=24",
+    "gambar": "https://i.pinimg.com/736x/41/ae/37/41ae37bcd6826b948a1ce1171aa515e2.jpg",
     "kategori": "Daging",
     "deskripsi": "Bola daging sapi kenyal dengan kuah kaldu gurih.",
     "bahan": [
@@ -317,7 +317,7 @@
   {
     "id": "15",
     "nama": "Nasi Uduk",
-    "gambar": "https://loremflickr.com/600/400/nasi,uduk?lock=25",
+    "gambar": "https://i.pinimg.com/736x/18/62/eb/1862eb7906827656e6aa938635c34d34.jpg",
     "kategori": "Nasi & Mie",
     "deskripsi": "Nasi gurih yang dimasak dengan santan dan rempah.",
     "bahan": [
@@ -339,7 +339,7 @@
   {
     "id": "16",
     "nama": "Gudeg Jogja",
-    "gambar": "https://loremflickr.com/600/400/gudeg?lock=26",
+    "gambar": "https://i.pinimg.com/736x/65/99/d8/6599d8b5261f20d3f1863e94f6be9522.jpg",
     "kategori": "Sayur",
     "deskripsi": "Olahan nangka muda manis khas Yogyakarta.",
     "bahan": [
@@ -362,7 +362,7 @@
   {
     "id": "17",
     "nama": "Rawon Daging",
-    "gambar": "https://loremflickr.com/600/400/rawon?lock=27",
+    "gambar": "https://i.pinimg.com/736x/94/3a/25/943a25701803947e8853083430d01c39.jpg",
     "kategori": "Daging",
     "deskripsi": "Sup daging berkuah hitam khas Jawa Timur dengan kluwek.",
     "bahan": [
@@ -385,7 +385,7 @@
   {
     "id": "18",
     "nama": "Soto Betawi",
-    "gambar": "https://loremflickr.com/600/400/soto,betawi?lock=28",
+    "gambar": "https://i.pinimg.com/736x/f3/80/ce/f380ce84bab60653bba44fc2d44cf53f.jpg",
     "kategori": "Daging",
     "deskripsi": "Soto daging berkuah santan gurih khas Betawi.",
     "bahan": [
@@ -408,7 +408,7 @@
   {
     "id": "19",
     "nama": "Mie Ayam",
-    "gambar": "https://loremflickr.com/600/400/mie,ayam?lock=29",
+    "gambar": "https://i.pinimg.com/736x/55/9d/34/559d34965d9989abc1b0b0e318c1f447.jpg",
     "kategori": "Nasi & Mie",
     "deskripsi": "Mie dengan topping ayam kecap dan sawi.",
     "bahan": [
@@ -430,7 +430,7 @@
   {
     "id": "20",
     "nama": "Bubur Ayam",
-    "gambar": "https://loremflickr.com/600/400/bubur,ayam?lock=30",
+    "gambar": "https://i.pinimg.com/736x/c5/f6/8d/c5f68d798d99d9f2a2818c6ac7748a55.jpg",
     "kategori": "Nasi & Mie",
     "deskripsi": "Bubur nasi lembut dengan ayam suwir dan pelengkap.",
     "bahan": [
@@ -452,7 +452,7 @@
   {
     "id": "21",
     "nama": "Martabak Manis",
-    "gambar": "https://loremflickr.com/600/400/martabak?lock=31",
+    "gambar": "https://i.pinimg.com/736x/68/d5/ad/68d5ad563812963a873b4e26d7e3745a.jpg",
     "kategori": "Cemilan",
     "deskripsi": "Kue terang bulan tebal dengan topping cokelat dan susu.",
     "bahan": [
@@ -474,7 +474,7 @@
   {
     "id": "22",
     "nama": "Opor Ayam",
-    "gambar": "https://loremflickr.com/600/400/opor,ayam?lock=32",
+    "gambar": "https://i.pinimg.com/736x/4a/8d/85/4a8d85b9e7b7a6818d2aa1ee2211bfee.jpg",
     "kategori": "Ayam",
     "deskripsi": "Ayam berkuah santan kuning yang gurih dan harum.",
     "bahan": [
@@ -497,7 +497,7 @@
   {
     "id": "23",
     "nama": "Semur Daging",
-    "gambar": "https://loremflickr.com/600/400/semur,daging?lock=33",
+    "gambar": "https://i.pinimg.com/736x/44/11/69/441169c0089a4e480026ba7afaf4ab0c.jpg",
     "kategori": "Daging",
     "deskripsi": "Daging sapi dimasak dengan kuah kecap manis berempah.",
     "bahan": [
@@ -520,7 +520,7 @@
   {
     "id": "24",
     "nama": "Capcay Kuah",
-    "gambar": "https://loremflickr.com/600/400/capcay?lock=34",
+    "gambar": "https://i.pinimg.com/736x/ef/d9/3d/efd93d501f96e62c36ad7ad290056c11.jpg",
     "kategori": "Sayur",
     "deskripsi": "Tumis aneka sayuran berkuah dengan udang atau ayam.",
     "bahan": [
@@ -542,7 +542,7 @@
   {
     "id": "25",
     "nama": "Nasi Kuning",
-    "gambar": "https://loremflickr.com/600/400/nasi,kuning?lock=35",
+    "gambar": "https://i.pinimg.com/736x/e9/89/4d/e9894d428e3b95eb48481df47cd461d6.jpg",
     "kategori": "Nasi & Mie",
     "deskripsi": "Nasi santan berwarna kuning dari kunyit, gurih dan wangi.",
     "bahan": [
@@ -564,7 +564,7 @@
   {
     "id": "26",
     "nama": "Ketoprak",
-    "gambar": "https://loremflickr.com/600/400/ketoprak?lock=36",
+    "gambar": "https://i.pinimg.com/736x/71/20/24/7120249d7e007134f8769623651cca42.jpg",
     "kategori": "Sayur",
     "deskripsi": "Lontong, bihun, dan tahu dengan saus kacang dan kecap.",
     "bahan": [
@@ -586,7 +586,7 @@
   {
     "id": "27",
     "nama": "Pecel Sayur",
-    "gambar": "https://loremflickr.com/600/400/pecel?lock=37",
+    "gambar": "https://i.pinimg.com/736x/81/64/bf/8164bfd1c950666b540f873a3fc040c4.jpg",
     "kategori": "Sayur",
     "deskripsi": "Sayuran rebus dengan sambal kacang khas Jawa.",
     "bahan": [
@@ -608,7 +608,7 @@
   {
     "id": "28",
     "nama": "Gulai Kambing",
-    "gambar": "https://loremflickr.com/600/400/gulai,kambing?lock=38",
+    "gambar": "https://i.pinimg.com/736x/5d/5d/a2/5d5da2bdcec9d8f790cef305ed2d9061.jpg",
     "kategori": "Daging",
     "deskripsi": "Daging kambing berkuah santan rempah yang kaya rasa.",
     "bahan": [
@@ -631,7 +631,7 @@
   {
     "id": "29",
     "nama": "Klepon",
-    "gambar": "https://loremflickr.com/600/400/klepon?lock=39",
+    "gambar": "https://i.pinimg.com/736x/d5/1f/d2/d51fd201621b113c1d1968fec16c634b.jpg",
     "kategori": "Cemilan",
     "deskripsi": "Bola ketan isi gula merah berbalut kelapa parut.",
     "bahan": [
@@ -652,7 +652,7 @@
   {
     "id": "30",
     "nama": "Es Campur",
-    "gambar": "https://loremflickr.com/600/400/es,campur?lock=40",
+    "gambar": "https://i.pinimg.com/736x/2e/47/44/2e4744c56fc2b2ec5c6e68998c6da543.jpg",
     "kategori": "Cemilan",
     "deskripsi": "Minuman segar berisi aneka buah, cincau, dan sirup.",
     "bahan": [
