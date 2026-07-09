@@ -671,4 +671,26 @@
       "Sajikan dingin."
     ]
   }
+  {
+    "id": "31",
+    "nama": "Pop Ice",
+    "gambar": "https://i.pinimg.com/736x/2e/47/44/2e4744c56fc2b2ec5c6e68998c6da543.jpg",
+    "kategori": "Cemilan",
+    "deskripsi": "Minuman segar berisi aneka buah, cincau, dan sirup.",
+    "bahan": [
+      "Es serut secukupnya",
+      "Kelapa muda",
+      "Cincau dan kolang-kaling",
+      "Potongan buah (alpukat, nangka)",
+      "Sirup merah",
+      "Susu kental manis"
+    ],
+    "langkah": [
+      "Siapkan aneka isian di mangkuk.",
+      "Tambahkan es serut di atasnya.",
+      "Siram dengan sirup merah.",
+      "Beri susu kental manis.",
+      "Sajikan dingin."
+    ]
+  }
 ]
